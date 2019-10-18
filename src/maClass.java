@@ -1,0 +1,2 @@
+public class maClass {
+}
